@@ -1,0 +1,7 @@
+- Inicializar proyecto con Vite
+- Anadir linter para TS + react
+  - npx eslint --init || npm init @eslint/config
+- Anadir estilos del TodoMVC
+- Listar todos los TODOs
+- Borrar un todo
+- Marcar TODO como completado
